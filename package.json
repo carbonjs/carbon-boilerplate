@@ -1,0 +1,22 @@
+{
+  "name": "carbon-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for the CarbonJS Framework, everything you need to start making awsome applications",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carbonjs/carbon-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carbonjs/carbon-boilerplate/issues"
+  },
+  "homepage": "https://github.com/carbonjs/carbon-boilerplate#readme",
+  "dependencies": {
+    "carbon-framework": "^0.1.23"
+  }
+}
